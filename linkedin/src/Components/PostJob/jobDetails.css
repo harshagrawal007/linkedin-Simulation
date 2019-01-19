@@ -1,0 +1,36 @@
+.section-form2 {
+    margin-left: 20%;
+    margin-top: 10%;
+    background-color: rgb(255, 255, 255) !important;
+    background-clip: padding-box;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px, rgba(0, 0, 0, 0.2) 0px 2px 3px;
+    flex-basis: 744px;
+    border-radius: 2px;
+    padding: 24px;
+}
+.form2{
+    background-color:white;
+}
+.blueBackground{
+    background-color:#006097;
+}
+.sidebar {
+    padding: 16px 0 0 24px;
+    /* margin-left: 10%; */
+    margin-top: 10%;
+}
+.glyphiconJob {
+    display: block;
+    text-align: left !important;
+    color:#006097 !important;
+    font-size: 2em;
+}
+.glyphiconJob2{
+    display: block;
+    text-align: left !important;
+    color:#006097 !important;
+    font-size: 2em;
+}
+.fontBold{
+    font-weight: bold;
+}

@@ -1,0 +1,132 @@
+.navbarlogin-custom {
+    height: 52px;
+}
+.sign-up{
+    background-color: white;
+    min-height: 700px;
+
+
+}
+
+
+.signup-page-logo{
+    margin-left: 155%;
+    margin-top: -65%;
+    
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.9);
+    display: block;
+    height: 28px;
+    min-height: auto;
+    min-width: auto;
+    text-decoration: none solid rgba(0, 0, 0, 0.9);
+    text-size-adjust: 100%;
+    width: 111px;
+    column-rule-color: rgba(0, 0, 0, 0.9);
+    perspective-origin: 55.5px 14px;
+    transform-origin: 55.5px 14px;
+    caret-color: rgba(0, 0, 0, 0.9);
+    border: 0px none rgba(0, 0, 0, 0.9);
+    font: normal normal 400 normal 40px / 48px Helvetica, Arial, sans-serif;
+    outline: rgba(0, 0, 0, 0.9) none 0px;
+    transition: opacity 0.3s ease 0s}
+
+.sign-up-heading {
+    background-position: 0px 0px;
+    color: rgba(0, 0, 0, 0.9);
+    height: 48px;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.9);
+    width: 720px;
+    column-rule-color: rgba(0, 0, 0, 0.9);
+    perspective-origin: 360px 24px;
+    transform-origin: 360px 24px;
+    caret-color: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgba(0, 0, 0, 0.9);
+    font: normal normal 200 normal 40px / 48px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 0px 0px 8px;
+    outline: rgba(0, 0, 0, 0.9) none 0px;
+}
+
+.sign-up-div{
+    margin-top: 5%;
+    margin-left: 25%;
+}
+
+.sign-up-heading2 {
+    background-position: 0px 0px;
+    color: rgba(0, 0, 0, 0.6);
+    height: 46px;
+    text-align: center;
+    text-decoration: none solid rgba(0, 0, 0, 0.6);
+    width: 720px;
+    column-rule-color: rgba(0, 0, 0, 0.6);
+    perspective-origin: 360px 23px;
+    transform-origin: 360px 23px;
+    caret-color: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgba(0, 0, 0, 0.6);
+    font: normal normal 400 normal 18px / 23.9999px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 0px;
+    outline: rgba(0, 0, 0, 0.6) none 0px;
+}/*#H2_4*/
+
+.sign-up-label{
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: none solid rgba(0, 0, 0, 0.6);
+    font: normal normal 400 normal 14px / 20px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;   
+}
+.sign-up-input{
+    color: rgba(0, 0, 0, 0.9);
+    text-decoration: none solid rgba(0, 0, 0, 0.9);
+    font: normal normal 400 normal 14px / 20px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-radius: 2px 2px 2px 2px;
+    height: 40px;
+    width: 456px;
+    padding: 0px 32px 0px 10px;
+    transition: box-shadow 0.15s ease 0s;
+}
+.sign-up-input2{
+    margin-top: 10%;
+    color: rgba(0, 0, 0, 0.9);
+    text-decoration: none solid rgba(0, 0, 0, 0.9);
+    font: normal normal 400 normal 14px / 20px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-radius: 2px 2px 2px 2px;
+    height: 35px;
+    width: 356px;
+    padding: 0px 32px 0px 10px;
+    transition: box-shadow 0.15s ease 0s;
+}
+
+
+.drop-down-sign-up{
+    color: rgba(0, 0, 0, 0.9);
+    text-decoration: none solid rgba(0, 0, 0, 0.9);
+    font: normal normal 400 normal 14px / 20px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-radius: 2px 2px 2px 2px;
+    height: 40px;
+    width: 456px;
+    padding: 0px 32px 0px 10px;
+    transition: box-shadow 0.15s ease 0s;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.submit-button-sign-up{
+    height: 48px;
+    width: 456px;
+    background: rgb(0, 115, 177) none repeat scroll 0px 0px / auto padding-box border-box;
+    color: rgb(255, 255, 255);
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 2px 2px 2px 2px;
+    font: normal normal 600 normal 20px / 48px -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0px;
+
+}

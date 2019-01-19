@@ -1,0 +1,19 @@
+/* Sayalee Navbar color change */
+
+.navbarlinkedin-navbar {
+    background: #283e4a;
+    border:  #283e4a;
+  }
+  
+  .navbarlinkedin-glyphicon {
+    display:block;
+    text-align:center;
+    color:white;
+  }
+.navbarlinkedin-dropdown-menu{
+  margin-left:100px
+
+}
+  .navbarlinkedin-dropdown{
+    width:300px;
+  }

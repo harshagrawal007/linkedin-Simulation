@@ -1,0 +1,12 @@
+/* Post Job Navbar color change */
+
+.navbarPostJob {
+    background: #006097 !important;
+    border:  #283e4a;
+  }
+  
+  .glyphiconJobNavbar {
+    display:block;
+    text-align:center;
+    color:white !important;
+  }

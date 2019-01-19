@@ -1,0 +1,21 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "glob": "^7.1.2",
+    "images-upload-middleware": "^1.1.1",
+    "kafka-node": "^3.0.1",
+    "mongodb": "^2.2.31",
+    "mongodb-autoincrement": "^1.0.1",
+    "mongoose": "^5.3.1",
+    "nodemailer": "^4.6.4"
+  }
+}

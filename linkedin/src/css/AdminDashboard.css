@@ -1,0 +1,80 @@
+.ad-card{
+    width: 18rem;
+    height: 20rem;
+    border:1px solid black
+}
+.ad-content{
+    margin-top: 70px;
+    padding: 30px 15px;
+    min-height: calc(100vh - 123px);
+}
+
+.ad-card.ad-card-chart .ad-card-footer i:nth-child(1n+2) {
+    width: 18px;
+    text-align: center;
+  }
+  
+  .ad-card.ad-card-chart .ad-card-category {
+    margin: 0;
+  }
+
+  .ad-card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #fff;
+    border-bottom: 1px solid #eeeeee;
+  }
+
+  .ad-card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+  }
+
+  .ad-card .ad-card-body,
+.ad-card .ad-card-footer {
+  padding: 0.9375rem 1.875rem;
+}
+
+.ad-card .ad-card-body+.ad-card-footer {
+  padding-top: 0rem;
+  border: 0;
+  border-radius: 6px;
+}
+
+
+.ad-card .ad-card-category:not([class*="text-"]) {
+    color: #999999;
+  }
+  
+  .ad-card .ad-card-category {
+    margin-top: 10px;
+  }
+  
+  .ad-card .ad-card-category .material-icons {
+    position: relative;
+    top: 8px;
+    line-height: 0;
+  }
+  .ad-card-title {
+    margin-bottom: 0.75rem;
+  }
+
+  .ad-container1{
+    margin-left:1px;
+    max-width: 50%;
+    max-height: 50%;
+  }
+  
+  .ad-container2{
+    margin-top:-24%;
+    margin-right:1px;
+    max-width: 50%;
+    max-height: 50%;
+  }
+
+  .ad-container3{
+    margin-top:10%;
+    margin-right:30%;
+    max-width: 50%;
+    max-height: 50%;
+  }
